@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UkuleleBoy46
-- 👀 I’m interested in coding Discord bots.
+- 👀 I code Discord bots in Javascript!
 
 <!---
 UkuleleBoy46/UkuleleBoy46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
