@@ -1,10 +1,10 @@
 <br/>
 
-I'm a self-taught developer in the United States.
+Hi, I'm UkuleleBoy46, a self-taught developer in the United States.
 
 **About me**
 
-- My favorite programming language is Javascript.
+- My favorite programming language is Javascript. I also use HTML and CSS, and in the past I've used some Python.
 
 - I make Discord bots and run a [Discord server](https://discord.gg/QQQRBNDj9b ) to help people code (with a focus on Discord bots) and make their Discord servers better.
 
@@ -13,10 +13,11 @@ I'm a self-taught developer in the United States.
   <a href=https://discord.gg/QQQRBNDj9b target="_blank"><img width="30%" src="https://discord.com/api/guilds/979488797358166056/widget.png?style=banner4"></img></a> <a href="https://discord.gg/4cwhqXX99R" target="_blank"><img width="30%" src="https://discord.com/api/guilds/990262032072847362/widget.png?style=banner4"></img></a> <a href=https://discord.gg/pnMt2CHTunb target="_blank"><img width="30%" src="https://discord.com/api/guilds/1001574385414570014/widget.png?style=banner4"></img></a>
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
-
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ukuleleboy46&show_icons=true&include_all_commits=true&hide_border=true" alt="UkuleleBoy46's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukuleleboy46&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
