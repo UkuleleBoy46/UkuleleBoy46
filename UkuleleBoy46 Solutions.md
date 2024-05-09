@@ -1,4 +1,7 @@
-### UkuleleBoy46 Solutions is Now Hiring
+# UkuleleBoy46 Solutions
+UkuleleBoy46 Solutions is a small group of developers that finds solutions to people's everyday problems in the real world using online technology. Whether that's automating chicken feed amounts, bypassing ad walls, or rebuilding websites to make them load much faster (for those of use with potato computers), we fix it with the power of code.
+
+## Now Hiring! Apply Today!
 We're looking for JavaScript and HTML & CSS developers to expand our team and assist in projects. As I (UkuleleBoy46) work with all of these skillsets, I will be able to guide the team and provide clear instructions. We do all our work for free and open source and we can't pay you, but you'll gain valuable coding experience, learn how to work with a team, and build your resume. We are currently working on a large/scalable project, but we may also have smaller projects to work on that we'd like your help with (taking approx. 1-3 days on average).
 __I am seeking these positions__ (If your skillsets reach across multiple of these positions, that would be awesome, as they all work closely together. You may work in all three!):
 ### JavaScript Developer
