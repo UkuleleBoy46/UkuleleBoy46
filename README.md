@@ -55,7 +55,7 @@ If you're interested in applying, apply here: https://forms.gle/ik1aSx4pYxFNthv6
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ukuleleboy46&show_icons=true&include_all_commits=true&hide_border=true" alt="UkuleleBoy46's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukuleleboy46&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ukuleleboy46&show_icons=true&include_all_commits=true&hide_border=true&show=prs_merged" alt="UkuleleBoy46's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukuleleboy46&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 <br />
