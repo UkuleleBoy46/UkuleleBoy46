@@ -1,20 +1,22 @@
 <br/>
 
-Hi, I'm UkuleleBoy46, a self-taught developer in the United States. I like reading, spending time in nature, gardening, and researching health & nutrition. I have a public bot and a few servers.
+Hi, I'm UkuleleBoy46, a self-taught developer in the United States. I like reading, spending time in nature, gardening, and researching health & nutrition. I develop a Discord bot and run few Discord servers.
 
 # About me
 
-- My favorite programming language is Javascript. I also use HTML and CSS, and in the past I've used some Python.
+- My favorite programming language is **Javascript**. I also use HTML and CSS and have some experience with Python.
 
-- I mostly make small projects, such as [bookmarklets](https://github.com/UkuleleBoy46/Bookmarklets/) and HTML web tools (some of which then turn into larger projects).
+- I mostly code small projects, such as [bookmarklets](https://github.com/UkuleleBoy46/Bookmarklets/) and HTML web tools. I'm currently the lead developer on a software project (currently in alpha).
 
-- I make Discord bots and run a [Discord server](https://discord.gg/QQQRBNDj9b) to help people code (with a focus on Discord bots) and make their Discord servers better.
+- I run a [Discord server called **Lantern Developer Academy**](https://discord.gg/QQQRBNDj9b) to teach people how to code and to provide a community to assist each other with coding problems.
+
+- I own a multi-purpose [Discord bot](https://discord.com/oauth2/authorize?client_id=989897952841572470&scope=applications.commands%20bot&permissions=8).
 
 - I speak English, I'm learning Spanish, and I know a little German.
 
 My website: https://ukuleleboy46.github.io/
 # UkuleleBoy46 Solutions
-UkuleleBoy46 Solutions is a small group of developers that finds solutions to people's everyday problems in the real world using online technology. Whether that's automating chicken feed amounts, bypassing ad walls, or rebuilding websites to make them load much faster (for those of use with potato computers), we fix it with the power of code. [We're hiring! Apply today!](https://github.com/UkuleleBoy46/UkuleleBoy46/blob/main/UkuleleBoy46%20Solutions.md)
+UkuleleBoy46 Solutions is a small group of developers that finds solutions to people's everyday problems in the real world using online technology. Whether that's automating chicken feed amounts, bypassing ad walls, or rebuilding websites to make them load much faster (for those of us with potato computers), we fix it with the power of code. [**We're hiring!** Apply today!](https://github.com/UkuleleBoy46/UkuleleBoy46/blob/main/UkuleleBoy46%20Solutions.md)
 
   <a href=https://discord.gg/QQQRBNDj9b target="_blank"><img width="30%" src="https://discord.com/api/guilds/979488797358166056/widget.png?style=banner4"></img></a> <a href="https://discord.gg/4cwhqXX99R" target="_blank"><img width="30%" src="https://discord.com/api/guilds/990262032072847362/widget.png?style=banner4"></img></a> <a href=https://discord.gg/pnMt2CHTunb target="_blank"><img width="30%" src="https://discord.com/api/guilds/1001574385414570014/widget.png?style=banner4"></img></a>
 
